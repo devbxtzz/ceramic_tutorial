@@ -1,2 +1,2 @@
-# ceranamic_tutorial
-Learning ceranamic using high level sdk self.ID
+# ceramic_tutorial
+Learning ceramic using high level sdk self.ID
